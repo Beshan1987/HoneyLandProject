@@ -3,7 +3,8 @@ import { type ButtonHTMLAttributes, type ReactElement } from 'react';
 export const ButtonAppearance = {
   Primary: 'primary',
   Secondary: 'secondary',
-  Secondary2: 'secondary2'
+  Secondary2: 'secondary2',
+  formButton: 'formButton'
 } as const;
 
 export type ButtonAppearances =

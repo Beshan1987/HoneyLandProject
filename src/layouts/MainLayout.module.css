@@ -26,8 +26,8 @@ main {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url('/src/assets/bgs/QUEENSPOTTING_\ HOW\ TO\ FIND\ YOUR\ QUEEN\ BEE\ -\ Beekeeping\ Like\ A\ Girl.png');
+  background-image: url("/src/assets/bgs/QUEENSPOTTING_ HOW TO FIND YOUR QUEEN BEE - Beekeeping Like A Girl.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-}
+}/*# sourceMappingURL=MainLayout.module.css.map */

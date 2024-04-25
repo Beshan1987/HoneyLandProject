@@ -12,17 +12,17 @@
   background: none;
   border-radius: 5px;
   padding: 0;
-  &:disabled {
-    cursor: not-allowed;
-  }
 }
-.icon {
-  > svg {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
+.btn:disabled {
+  cursor: not-allowed;
 }
+
+.icon > svg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .primary {
   padding: 12px;
   background-color: var(--primary);
@@ -38,4 +38,4 @@
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
   padding: 10px;
-}
+}/*# sourceMappingURL=Button.module.css.map */
